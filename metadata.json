@@ -1,0 +1,6 @@
+{
+  "name": "StudyMate AI – Intelligent Study Assistant",
+  "description": "Intelligent academic study assistant for students. Upload your syllabus PDF to get grounded Q&A, comprehensive summaries, unit breakdowns, practice MCQs, and concept explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
